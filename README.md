@@ -6,6 +6,7 @@ Arquivos presentes no diretório:
 - Banco de dados utilizado no treinamento: bdinfame.csv;
 - Modelo gerado no Colab e convertido para C: randomforest.c
 - Header utilizado no STM32CubeIde como forma de boa prática na organização do projeto: ramdomforest.h;
+- Arquivo gerado pelo Google Colab com o treinamento e inferência utilizando RF: Regressão_RandonForest.ipynb
 
 Configuraçãoes no STM32CubeIDE:
 CLOCK:
